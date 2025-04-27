@@ -1,4 +1,4 @@
-# Ping Monitor
+6# Ping Monitor
 
 A simple and powerful Python-based ping monitor that tracks the status of multiple IP addresses over time, calculates minimum and maximum ping values for the last hour, and displays live information in a rich terminal interface.
 
@@ -20,6 +20,23 @@ A simple and powerful Python-based ping monitor that tracks the status of multip
 2. Install the required library:
    
    pip install rich
+
+
+برای ران موندن اسکریپت روی سرورتون
+با این دستور ران میمونه
+screen -S pingtools
+python ping-monitor.py
+
+
+برای خروج از محیط بدون قطع شدن اسکریپت 
+Ctrl + A + D
+
+
+
+برای بازگشت ب محیط اسکریپت
+screen -r pingtools
+
+
 
 ![ping](https://github.com/user-attachments/assets/470d926c-6d90-4fa4-ab38-ec715982624c)
 
