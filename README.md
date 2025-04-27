@@ -20,3 +20,9 @@ A simple and powerful Python-based ping monitor that tracks the status of multip
 2. Install the required library:
    
    pip install rich
+
+![ping](https://github.com/user-attachments/assets/470d926c-6d90-4fa4-ab38-ec715982624c)
+
+
+
+   
