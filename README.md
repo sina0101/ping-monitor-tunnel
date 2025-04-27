@@ -16,7 +16,7 @@ A simple and powerful Python-based ping monitor that tracks the status of multip
 - `rich` library: Install using `pip install rich`.
 
 ## How to Run
-1. Clone this repository or download the `monitor.py` file.
+1. Clone this repository or download the `ping-monitor.py` file.
 2. Install the required library:
    
    pip install rich
